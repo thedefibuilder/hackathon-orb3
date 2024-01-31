@@ -1,0 +1,26 @@
+{
+  "lang": "en-EN",
+  "name": "DeFi Builder | Orb3 Hackathon",
+  "short_name": "DeFi Builder | Orb3 Hackathon",
+  "description": "DeFi Builder's project for Orb3 Hackathon",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000",
+  "background_color": "#000",
+  "icons": [
+    {
+      "src": "/favicon/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+
